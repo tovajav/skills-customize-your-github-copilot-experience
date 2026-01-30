@@ -74,5 +74,20 @@
         }
       ]
     }
+    ,
+    {
+      "id": "ml-intro",
+      "title": "Introduction to Machine Learning with scikit-learn",
+      "description": "Build a simple classifier or regressor using scikit-learn. Learn the basics of supervised machine learning, including data preparation, model training, prediction, and evaluation.",
+      "path": "assignments/ml-intro",
+      "dueDate": "2026-02-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    }
   ]
 }
