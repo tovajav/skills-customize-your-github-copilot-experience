@@ -13,6 +13,7 @@ This project is an educational website for sharing homework assignments and codi
 
 - Maintain consistent styling across all pages
 - Keep file and folder names descriptive and organized
+- For commit messages, use clear and concise descriptions and bullet points for multiple changes
 
 ## Educational Standards
 
